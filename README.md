@@ -1,4 +1,4 @@
-# 👋 안녕하세요, 김하늘입니다
+# 👋 안녕하세요, 홍길동입니다
 
 > "좋은 코드는 잘 쓴 편지처럼 읽힌다"고 믿는 백엔드 개발자입니다.
 
@@ -50,9 +50,9 @@
 
 ## 📮 연락처
 
-- ✉️ Email: haneul.kim@example.com
-- 🔗 Blog: https://blog.example.com/haneul
-- 💼 LinkedIn: https://linkedin.com/in/example-haneul
+- ✉️ Email: gildong.hong@example.com
+- 🔗 Blog: https://blog.example.com/gildong
+- 💼 LinkedIn: https://linkedin.com/in/example-gildong
 
 ---
 
